@@ -1,4 +1,4 @@
-passengerid,pclass,Survived/died,name,sex,age,sibsp,parch,ticket,fare,cabin,embarked,boat,body,home.dest
+passengerid,pclass,survived/died,name,sex,age,sibsp,parch,ticket,fare,cabin,embarked,boat,body,home.dest
 1,1st,Survived,"Allen, Miss. Elisabeth Walton",female,29,0,0,24160,211.337494,B5,Southampton,2,NA,"St Louis, MO"
 2,1st,Survived,"Allison, Master. Hudson Trevor",male,0.916700006,1,2,113781,151.550003,C22 C26,Southampton,11,NA,"Montreal, PQ / Chesterville, ON"
 3,1st,died,"Allison, Miss. Helen Loraine",female,2,1,2,113781,151.550003,C22 C26,Southampton,,NA,"Montreal, PQ / Chesterville, ON"
